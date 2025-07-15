@@ -12,7 +12,6 @@ This repository contains automation scripts and test cases developed during my i
 ### Technologies Used
 
 - Appium
-- Selenium
 - Python
 - Appium
 
